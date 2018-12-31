@@ -1,0 +1,19 @@
+Notes on area of interest management system
+
+// try to implement a basic area of interest system, could be map based to begin with
+// where area of interest contents are 'phased' in as the user approaches another region
+
+// for example: 
+
+//////////////////////////////////////
+//			//			//			//
+//	  x	    //	   y	//	   z    //
+//			//			//			//
+//			//			//			//
+//////////////////////////////////////
+
+// if user is in y, x and z are preloaded
+// if user moves to z, data from x is removed / x updates no longer occur
+
+type - area
+

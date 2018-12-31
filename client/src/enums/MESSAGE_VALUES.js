@@ -1,0 +1,7 @@
+const MESSAGE_VALUES = {
+	BEING_TYPE_WARRIOR: 'wr',
+	BEING_TYPE_MAGE: 'mg',
+	BEING_TYPE_PRIEST: 'pr',
+};
+
+export default MESSAGE_VALUES;
